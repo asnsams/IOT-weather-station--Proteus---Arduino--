@@ -13,8 +13,3 @@ A virtual IoT-based weather station implemented using **Proteus** and **Arduino*
 - **Presentation Slides:** [View on Google Drive](https://drive.google.com/file/d/1myuatTV0JCHYsrqmkCVv2kXemmY6N3J8/view)  
 - **Video Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=RLUZbu9l6Rc)
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/iot-weather-station.git
